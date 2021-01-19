@@ -26,7 +26,7 @@ public class LoginTest {
 	@Before
 	public void setUp()
 	{
-		user=new User(12,"Ram","Ram@123","Ram@123");
+		user=new User(13,"Prakash","Prakash@321","Prakash@321");
 	}
 	
 	@Test
