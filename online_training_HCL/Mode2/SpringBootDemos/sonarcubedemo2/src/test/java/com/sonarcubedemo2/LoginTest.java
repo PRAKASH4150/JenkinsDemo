@@ -38,7 +38,7 @@ public class LoginTest {
 	@Test
 	public void validateGetAllUsers()
 	{
-		assertEquals(2,userService.getAllUsers().size());
+		assertEquals(3,userService.getAllUsers().size());
 	}
 	
 	@Test
