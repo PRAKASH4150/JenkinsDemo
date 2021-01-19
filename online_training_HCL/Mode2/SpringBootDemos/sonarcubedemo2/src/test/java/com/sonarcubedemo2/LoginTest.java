@@ -35,11 +35,11 @@ public class LoginTest {
 	   userService.createUser(user);
 	}
 	
-	@Test
+	/*@Test
 	public void validateGetAllUsers()
 	{
 		assertEquals(5,userService.getAllUsers().size());
-	}
+	}*/
 	
 	@Test
 	public void checkMethodThree()
